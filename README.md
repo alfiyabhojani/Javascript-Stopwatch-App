@@ -1,6 +1,7 @@
 # JAVASCRIPT DOC ASSIGNMENT 02
 
 This is my 2nd Javascript Doc Assignment.
+
 This is my Stopwatch App...
 
 ### Output Image
